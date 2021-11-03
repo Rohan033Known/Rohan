@@ -1,5 +1,4 @@
 # Rohan
-You secretly don't like me I openly don't care.
 Zphisher | Termux | Social Media Account Hack .
 
 Commands :-
